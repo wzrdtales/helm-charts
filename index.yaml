@@ -1026,9 +1026,9 @@ entries:
   step-issuer:
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2021-05-06T22:41:23.980929872+02:00"
+    created: "2021-05-07T00:03:43.221799186+02:00"
     description: Step-issuer helm chart for kubernetes.
-    digest: 62c4acb9fa03aa45d5e6c12822c1c3f803c2f3d6bdba58e3bfa8a9c7b846bec8
+    digest: e14ea19d21f67261ff4ef46d660ff6899387d61e4370629e85a20c4a3428734c
     home: https://smallstep.com
     keywords:
     - authority
@@ -1204,4 +1204,4 @@ entries:
     urls:
     - https://smallstep.github.io/helm-charts/step-issuer-0.2.0.tgz
     version: 0.2.0
-generated: "2021-05-06T22:41:23.980106868+02:00"
+generated: "2021-05-07T00:03:43.220884339+02:00"
